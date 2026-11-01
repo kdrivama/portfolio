@@ -1,0 +1,10 @@
+﻿*
+!.gitignore
+!index.html
+!style.css
+!banner.jpg
+!favicon.svg
+!projects/
+!projects/**
+!thumbs/
+!thumbs/**
